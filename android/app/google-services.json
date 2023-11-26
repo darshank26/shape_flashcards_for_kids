@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442311746603",
+    "project_id": "shape-flashcards-for-kids",
+    "storage_bucket": "shape-flashcards-for-kids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442311746603:android:fbb496310aa7134c37b66e",
+        "android_client_info": {
+          "package_name": "com.darshankomu.shape_flashcards_for_kids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvgNjtl0hWomL9gbe-mPiL35Vn0GdEQ4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
